@@ -1,0 +1,15 @@
+{
+  "name": "cay-tri-an",
+  "version": "1.0.0",
+  "description": "Cây Tri Ân - Ngày Nhà Giáo Việt Nam 20/11",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "keywords": ["tri-an", "20-11", "teacher-day"],
+  "author": "Khoa CNTT - Đại học Hải Phòng",
+  "license": "MIT"
+}
